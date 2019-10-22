@@ -60,7 +60,7 @@ print(sentence.count('o'))
       To be or not to be: that is the question: 
       4
 ```
-### while loop
+# while loop
 ```
 7根據底下程式,下列敘述何者為非?[複選題]
 
