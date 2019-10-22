@@ -32,12 +32,20 @@
 word = "arttarataaa"
 print(word.replace("a", "z",3))
 (A)出現錯誤,無法印出   (B)arttarataaa  (C)zrttzrztaaa (D)zrttzrztzzz
-
+```
+```
+答案是:(C)
+```
+```
 6.底下程式執行後結果為何?
 word = "arttarataaa"
 print(word.replace("a", "z"))
 (A)出現錯誤,無法印出   (B)arttarataaa  (C)zrttzrztaaa (D)zrttzrztzzz
-
+```
+```
+答案是:(D)
+```
+```
 7根據底下程式,下列敘述何者為非?[複選題]
 
 names = ['龍', '聖']
@@ -52,6 +60,11 @@ while index < len(names):
 (B)names[1]是 龍 
 (C)程式執行完後,index最後為2
 (D)如果把條件改成 index > len(names),中index最後為2
+```
+```
+答案是:(B,D)
+```
+```
 ```
 # 程式設計題
 ```
