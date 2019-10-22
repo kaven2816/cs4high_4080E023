@@ -82,4 +82,3 @@ while index < len(names):
 ```
 答案是(B,D)
 ```
-```
