@@ -64,8 +64,6 @@ while index < len(names):
 ```
 答案是:(B,D)
 ```
-```
-```
 # 程式設計題
 ```
 for 迴圈(loop)的技巧
