@@ -8,38 +8,61 @@
 答案是(D)
 ```
 ```
-2.print(3*2*(17-2))會印出甚麼結果:答案是(B)
+2.print(3*2*(17-2))會印出甚麼結果:
 (A)0   (B)90  (C)出現錯誤,無法印出  (D)3*2*(17-2)
-
-3.print("abc""+""def")會印出甚麼結果:答案是(B)
+```
+```
+答案是(B)
+```
+```
+3.print("abc""+""def")會印出甚麼結果:
 (A)出現錯誤,無法印出   (B)abc+def  (C)abc""+""def  (D)abcdef
-
-4.print("abc"+"def")會印出甚麼結果:答案是(D)
+```
+```
+答案是(B)
+```
+```
+4.print("abc"+"def")會印出甚麼結果:
 (A)出現錯誤,無法印出   (B)abc+def  (C)abc""+""def  (D)abcdef
-
-5.底下程式執行後結果為何? 答案是(C)
+```
+```
+答案是(D)
+```
+```
+5.底下程式執行後結果為何? 
 word = "arttarataaa"
 print(word.replace("a", "z",3))
 (A)出現錯誤,無法印出   (B)arttarataaa  (C)zrttzrztaaa (D)zrttzrztzzz
-
-6.底下程式執行後結果為何? 答案是(D)
+```
+```
+答案是(C)
+```
+```
+6.底下程式執行後結果為何?
 word = "arttarataaa"
 print(word.replace("a", "z"))
 (A)出現錯誤,無法印出   (B)arttarataaa  (C)zrttzrztaaa (D)zrttzrztzzz
-
+```
+```
+答案是(D)
+```
+```
 7.底下各行輸出為何?
 sentence = 'To Be or NOT to Be: that is the question:
 print(sentence.upper())
 print(sentence.lower())
 print(sentence.capitalize())
 print(sentence.count('o'))
-
+```
+```
 答案是:TO BE OR NOT TO BE: THAT IS THE QUESTION: 
       to be or not to be: that is the question: 
       To be or not to be: that is the question: 
       4
 ```
+```
 ### while loop
+```
 ```
 7根據底下程式,下列敘述何者為非?[複選題]
 
@@ -55,4 +78,8 @@ while index < len(names):
 (B)names[1]是 龍 
 (C)程式執行完後,index最後為2
 (D)如果把條件改成 index > len(names),中index最後為2
+```
+```
+答案是(B,D)
+```
 ```
