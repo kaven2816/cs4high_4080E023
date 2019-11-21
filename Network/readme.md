@@ -75,11 +75,10 @@ Layer-2: 資料鏈路層===>  邏輯鏈路控制（LLC, Logical Link Control）
 Layer-1: 實體層
 ```
 ```
+區域網路用的協定:
 IEEE 802.1：高層區域網路協定（Bridging (networking) and Network Management）
 IEEE 802.2：邏輯鏈路控制（Logical link control）
-
-區域網路用的協定:
-[超級重要]IEEE 802.3：乙太網路（Ethernet）
+[超級重要] IEEE 802.3：乙太網路（Ethernet）
 IEEE 802.4：權杖匯流排（Token bus）
 IEEE 802.5：權杖環（Token-Ring）
 IEEE 802.6：城域網（MAN, Metropolitan Area Network）
@@ -87,7 +86,7 @@ IEEE 802.7：寬頻TAG（Broadband LAN using Coaxial Cable）
 IEEE 802.8：光纖分散式資料介面（FDDI）
 IEEE 802.9：綜合業務區域網路（Integrated Services LAN）
 IEEE 802.10：區域網路網路安全（Interoperable LAN Security）
-[超級重要]IEEE 802.11：無線區域網路（Wireless LAN & Mesh）
+[超級重要] IEEE 802.11：無線區域網路（Wireless LAN & Mesh）
 IEEE 802.12：需求優先級（Demand priority）
 IEEE 802.13：（未使用）
 IEEE 802.14：電纜數據機（Cable modems）
