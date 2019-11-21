@@ -155,6 +155,7 @@ ARP -a [inet_addr] [-N if_addr] [-v]
   > arp -s 157.55.85.212   00-aa-00-62-c6-09  .... 新增靜態項 目。
   > arp -a                                    .... 顯示 ARP 表格。
 ```
+![arp-a](arp-a.png)
 ### ICMP
 ```
 Internet Control Message Protocol
