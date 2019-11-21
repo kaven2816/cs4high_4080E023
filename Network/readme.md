@@ -29,6 +29,10 @@ TREE Topology
 HYBRID Topology
 ```
 ```
+What is a DMZ? (Demilitarized Zone)
+https://www.youtube.com/watch?v=dqlzQXo1wqo
+```
+```
 NAT Explained - Network Address Translation
 https://www.youtube.com/watch?v=FTUV0t6JaDA
 ```
