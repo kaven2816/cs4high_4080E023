@@ -2,19 +2,31 @@
 ```
 https://markdown.tw/
 ```
-# 
+### Network Types:
 ```
-Network Types: LAN, WAN, PAN, CAN, MAN, SAN, WLAN
-https://www.youtube.com/watch?v=4_zSIXb7tLQ
+1. Personal Area Network (PAN)
+2. Local Area Network (LAN)
+3. Wireless Local Area Network (WLAN)
+4. Campus Area Network (CAN)
+5. Metropolitan Area Network (MAN)
+6. Wide Area Network (WAN)
+7. Storage-Area Network (SAN)
+8. System-Area Network (also known as SAN)
+9. Passive Optical Local Area Network (POLAN)
+10. Enterprise Private Network (EPN)
+11. Virtual Private Network (VPN)
 ```
+### Network Topologies
 ```
-Network Topologies (Star, Bus, Ring, Mesh, Ad hoc, Infrastructure, & Wireless Mesh Topology)
-https://www.youtube.com/watch?v=zbqrNg4C98U
-```
-
-```
-What is a DMZ? (Demilitarized Zone)
-https://www.youtube.com/watch?v=dqlzQXo1wqo
+Types of Network Topology
+BUS Topology
+RING Topology
+STAR Topology
+MESH Topology
+MESH Topology: Routing
+MESH Topology: Flooding
+TREE Topology
+HYBRID Topology
 ```
 ```
 NAT Explained - Network Address Translation
