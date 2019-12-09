@@ -27,5 +27,4 @@ public class School {
 		obj_s3.printfSchool();
 	}
 }
-
 ```
