@@ -8,7 +8,7 @@ public class School {
 	
 	public School() {}
 	
-	public School(String O,String N,String E) {
+	public School(String O,String C,String Ca) {
 		this.OfficeName=O;
 		this.Cadrename=C;
 		this.Cadrecode=Ca;
