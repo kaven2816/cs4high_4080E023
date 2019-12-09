@@ -1,0 +1,29 @@
+# 利用Student做一個School的資料
+public class School {
+	private String OfficeName;//辦公室
+	private String Cadrename;//幹部名稱
+	private String Cadrecode;//幹部代號
+	
+	public School() {}
+	
+	public School(String O,String N,String E) {
+		this.OfficeName=O;
+		this.Cadrename=C;
+		this.Cadrecode=Ca;
+	}
+	
+	public void printfSchool(){
+		System.out.println("辦公室名稱："+OfficeName+"幹部名稱："+Cadrename+"幹部代號："+Cadrecode);
+	}
+	
+	public static void main(String[]args) {
+		School obj_s1 = new School("辦公室名稱","001","-001");
+		obj_s1.printfSchool();
+		School obj_s2 = new School("幹部名稱","002","-002");
+		obj_s2.printfSchool();	
+		School obj_s3 = new School("幹部代號","003","-003");
+		obj_s3.printfSchool();
+	}
+}
+
+```
